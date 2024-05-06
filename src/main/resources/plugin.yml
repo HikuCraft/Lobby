@@ -1,0 +1,4 @@
+name: Lobby
+version: '${project.version}'
+main: org.hikuro.hikucraft.Lobby
+api-version: '1.20'
