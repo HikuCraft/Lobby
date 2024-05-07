@@ -44,6 +44,15 @@
 			<systemPath>${project.basedir}/lib/HikuCraftAPI-0.3.jar</systemPath>
 		</dependency>
 
+		<!-- HikuCraft Common -->
+		<dependency>
+			<groupId>org.hikuro.hikucraft</groupId>
+			<artifactId>Common</artifactId>
+			<version>0.1</version>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/lib/HikuCraftCommon-0.1.jar</systemPath>
+		</dependency>
+
 		<!-- Spotless -->
 		<dependency>
 			<groupId>com.diffplug.spotless</groupId>
